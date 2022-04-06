@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\STRIVER_NOTES"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"java",
+			"trees"
+		]
+	}
+}
