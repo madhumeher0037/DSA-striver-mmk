@@ -3,7 +3,7 @@
     import java.lang.*;
     import java.io.*;
     
-    class GFG {
+    class m-Coloring {
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
             int tc = scan.nextInt();

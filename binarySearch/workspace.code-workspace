@@ -9,8 +9,9 @@
 	],
 	"settings": {
 		"java.project.sourcePaths": [
+			"trees",
 			"java",
-			"trees"
+			"recursion"
 		]
 	}
 }
