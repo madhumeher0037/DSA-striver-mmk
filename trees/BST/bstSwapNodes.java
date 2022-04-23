@@ -60,3 +60,40 @@ class Solution {
     }
    
 }
+
+class Solution {
+    // PriorityQueue<Integer> ele = new PriorityQueue<Integer>();
+    TreeNode pre = null;
+    TreeNode first = null;
+    TreeNode second = null;
+    public void recoverTree(TreeNode root) {
+        // inOrder(root,ele,true);
+        // inOrder(root,ele,false);
+        inorder(root);
+        int temp = first.val;
+        first.val = second.val;
+        second.val=temp;
+        // return;
+    }
+    public void inorder(TreeNode root){
+        if(root==null) return;
+        inorder(root.left);
+        if((pre==null || root.val<pre.val) && first==null){
+            first = pre;
+        }
+        
+        if((pre==null || root.val<pre.val) && first!=null){
+            second=root;
+        }
+        pre = root;
+        inorder(root.right);
+        return;
+    }
+    // public void inOrder(TreeNode root,Queue<Integer> ele,boolean f){
+    //     if(root==null) return;
+    //     inOrder(root.left,ele,f);
+    //     if(f) ele.add(root.val);
+    //     else  root.val=ele.poll();
+    //     inOrder(root.right,ele,f);
+    // }
+}

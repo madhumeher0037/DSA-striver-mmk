@@ -1,0 +1,26 @@
+what is an instance and object?
+instance and object are same thing,when we allocate memory for any class using new keyword
+that means we instantiated all the characteristics and properties of that class.
+Whereas reference is a variable where it points to a object.
+Object is an instance of the class .Its a real life entity of a class,means it has allocated by memory.Whereas class is blueprint or template 
+which defines the properties and behaviour.
+
+what is a structured Programming?
+Structured programming is a programming model where we define control flow clearly and the program is 
+divided into multiple modules.So,that code can be reuseable and understandable.
+In structured programming the statements are excecuted in top-down sequence.All the programming models have the structured programming model
+including oops.
+
+STATIC:
+=>Whenever we require to create a single variable for all instance of an object.Static variable comes in a picture,for
+all instances of an class will have single static variable.
+=>The static var is same for all objects.so we can access the static var using the class name and whereas non-static var are accessble
+using the object name.
+=> static var are intiallised using the static block and non-static var using constructor.
+=> static block is executed during loading the class and its excecuted only once.All static blocks are follows the sequence. 
+=> After all static block excecution is completed.constructor is excecuted after the instantiating the class.
+=> non-static var are accessble by non-static methods.
+=> static variable are accesseble by static and non-static methods.
+
+heap and stack
+https://www.javatpoint.com/stack-vs-heap-java#:~:text=The%20major%20difference%20between%20Stack,dynamic%20memory%20allocation%20and%20deallocation.
