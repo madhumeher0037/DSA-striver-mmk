@@ -1,0 +1,4 @@
+left shift (m<<n)=m*(2^n)
+right shift (m>>n)=(m)/(2^n)
+
+ASCII A-65 and a-97 
