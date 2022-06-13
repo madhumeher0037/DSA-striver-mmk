@@ -1,8 +1,14 @@
-hi sir,My self kotipalli madhu meher.
-u can call me madhu and currently iam an undergraduate engineer specialized in computers science and engineering with cpga 8.59.
-during my time in engineering i completed the courses such as java,data Strutures,dbms,web development using html,css,js,bootstrap.During 3rd year me and my friends 
-developed chat app for min project using the react technology,where i played major role in backend for authenticating the user and save the cookies.
-And also more than 150 problems based data Strutures i sloved in leetcode coding platform. 
+hello sir!! First of all thank you for giving me this oppurtunity.
+My self kotipalli madhu meher.
+I'm currently pursuing a bachelor of engineering at Neil Gogte institute of technology in the CSE Department.
+I have done my schooling in Bharatiya Vidyalaya high school, Ameerpet, and my intermediate in Narayana junior clg, SR Nagar.
+I'm good at problem-solving and critical thinking.during my time in engineering i completed the courses such as java,data Strutures,dbms,web development using html,css,js,bootstrap.
+Now I'm currently working on react tech stack to build component-based and scalable websites. 
+along with react, I'm eager to learn new technologies.
+And my goal is to get into a reputed company as a software developer role.
+Talking about my interest and hobbies, I'm a video editor. I used to edit videos related to smartphones and upload them to my youtube channel.
+Other than this I love playing badminton and kabaddi. During my school time, I was a kabaddi captain and we won the trophy in inter-school tournaments.
+And in my free time, I used to watch movies.
 
 Strengths
 sir,im good at time management, consistency, patience and self motivation.Usually i divied my work based on their priority and allocate time to them.
@@ -10,3 +16,9 @@ So,that i can finish my work in time.During any hard or pressure situation i try
 
 but when comes to my Weakness
 im so nervous in public places or with strangers,but slowy improving and working on that area to become more confident in those situations
+
+
+
+After the Interview
+Once the interview has come to an end, stand up and shake the hand of the interviewer and thank them for the interview with a smile.
+Ending the interview on a positive note is also important and you can use a phrase like, “It was a pleasure meeting you. Have a great day.

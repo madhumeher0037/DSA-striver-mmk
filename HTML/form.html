@@ -1,0 +1,77 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        
+        function verifyForm(){
+            var psw = document.getElementById("password").value;
+            var name = document.getElementById("name").value;
+            var UserName = document.getElementById("UserName").value;
+            if(name.length==0){
+                document.getElementById("message1").innerHTML=" Fill the name";
+                return false;
+            }
+            else document.getElementById("message1").innerHTML=" ";
+            if(UserName.length==0){
+                document.getElementById("message2").innerHTML=" Fill the UserName";
+                return false;
+            }
+            else document.getElementById("message2").innerHTML="";
+            if(psw.length==0){
+                document.getElementById("message").innerHTML=" Fill the passWord";
+                return false;
+            }
+            if(psw.length<8){
+                document.getElementById("message").innerHTML=" password must be greater than the 8 charcter";
+                return false;
+            }
+            if(psw.length>15){
+                document.getElementById("message").innerHTML=" password must be less than or equal to 15 charcter";
+                return false;
+            }
+            alert("your form is submitted")
+            resetValues()
+            return  false;
+        }
+        function resetValues(){
+            document.getElementById("message").innerHTML="";
+            document.getElementById("message1").innerHTML="";
+            document.getElementById("message2").innerHTML="";
+            return false;
+        }
+    </script>
+</head>
+<body>
+    <div>
+        <form onsubmit="return verifyForm()">
+            <h1>FORM DETAILS</h1>
+            
+            <table>
+                
+                <tr>
+                    <td>*Name</td>
+                    <td><input type="text" id="name"><span type="text" id="message1"></span></td>
+                </tr>
+                <tr>
+                    <td>*UserName</td>
+                    <td><input type="text" id="UserName"><span type="text" id="message2"></span></td>
+                </tr>
+                <tr>
+                    <td>Phone Number</td>
+                    <td><input type="number"></td>
+                </tr>
+                <tr>
+                    <td>*Password</td>
+                    <td><input type="password" id="password"><span type="text" id="message"></span></td>
+                </tr>
+            </table>
+            <input type="submit" value="Submit"><br><br>
+            <button type="reset" value="Reset" onclick="resetValues()"> reset</button>
+            
+        </form>
+    </div>
+</body>
+</html>
