@@ -1,8 +1,15 @@
+// if you are still stuck with this problem.
+// Try the below program, it is more intuitive.
+// When arr[i]>2*arr[j] then cnt incremented to (mid-i+1)
+// This means " all right ele of ith index including ith ele " are greater than 2*arr[j]. Then add all ele count to ans;
+// And move the jth index to right.
+// .
+// .
+// .
 class Solution {
     public int reversePairs(int[] nums) {
         int[] temp = new int[nums.length];
         int cnt = mergeSort(0,nums.length-1,nums,temp);
-        // System.out.println(Arrays.toString(nums));
         return cnt;
     }
     
@@ -40,3 +47,5 @@ class Solution {
         for(int ind=low;ind<=high;ind++) nums[ind]=temp[ind];
     }
 }
+
+

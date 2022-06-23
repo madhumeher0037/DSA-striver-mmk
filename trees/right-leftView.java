@@ -19,8 +19,8 @@ class Solution {
         if(level==ds.size()) ds.add(node.val);
         rightView(node.right,level+1,ds);
         rightView(node.left,level+1,ds);
-          // incase of leftview we travese the left node then right,so that at each first left data structure
-        // stores value at left view
+        //   incase of leftview we travese the left node then right,so that at each first left data structure
+        //   stores value at left view
         return;
     }
     public List<Integer> rightSideView(TreeNode root) {

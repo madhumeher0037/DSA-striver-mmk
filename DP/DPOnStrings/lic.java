@@ -55,5 +55,5 @@
 	// }
 // }
 
-// priting lic : https://www.youtube.com/watch?v=3mD20VSib5E&t=14s
+// printing lic : https://www.youtube.com/watch?v=3mD20VSib5E&t=14s
 // binary lic : https://www.youtube.com/watch?v=on2hvxBXJH4
