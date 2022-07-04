@@ -1,3 +1,4 @@
+#tell about yourself
 hello sir!! First of all thank you for giving me this oppurtunity.
 My self kotipalli madhu meher.
 I'm currently pursuing a bachelor of engineering at Neil Gogte institute of technology in the CSE Department.
@@ -22,3 +23,53 @@ im so nervous in public places or with strangers,but slowy improving and working
 After the Interview
 Once the interview has come to an end, stand up and shake the hand of the interviewer and thank them for the interview with a smile.
 Ending the interview on a positive note is also important and you can use a phrase like, “It was a pleasure meeting you. Have a great day.
+
+freq asked hr questions
+
+Tell me about your projects.whether it was a team project or individual.
+Which one is better, individual project or Team project? Why?
+Tell me about the difficulties you faced in your project and how did you tackle them?
+How did you manage your team during working on the project.
+How will you tackle if you have less time to complete a project.
+Tell me a situation where you did mistake and how you tackle with the mistake you did.
+Tell me something that you have achieved apart from academics.What is your achievement.
+What are the leadership skills you think you have?
+
+
+
+#Future plan and scope of your project.
+
+
+
+
+
+#What if you will get into a conflit with one of your female team-member.
+sir/mam.first of all ill clarify with her and also with all team members that what was wrong with me .If everyone feel that 
+i did anything wrong and I feel that i done a mistake. then I say sorry to her and ill not repeat it.
+or else if i have not done anything wrong. ill talk to my team leader about this conflict.
+whatever my team leader proceeds with,I'm ready for the consequence.
+
+#Suppose you with your one colleouge working on a project with equal participation, and you will not get credits and recognition, 
+In this situation what will you do?
+sir/mam.in that situation,i calm myself and i dont' want to interfer while he presenting.After the meeting i talk to myself,that this is really important
+to me that taking the credits or not. if its matter,then went to my colleouge.And i ask him that it is intentional or not.if it is,then i'll ask to other colleouge 
+to tell my involment in project to the manager.if it is unintentional,then ill directly ask him to tell about my involment to manager.
+
+#Are you ready to relocate.
+
+#If your parents say don’t relocate, then will you able to relocate?
+
+#Why do you want to join EPAM. Why do you want to join EPAM?
+sir/mam,i don't have that much experience in the software industry. so right now i am eager to learn new technologies, improve my skills, 
+And want to know more about my weakness & strength. 
+And as per my knowledge, the epam system has great work culture and experience. 
+And i hope that epam is a company that plays a huge role in improving my skill and shaping my career. so really I'm excited to be part of epam.
+
+#How long you commit to work in Epam.
+I will surely work until our company requires my services and satisfied with my work.
+
+#About my family background.
+
+#If your relatives say to leave Epam for more salary, will you do?
+NO sir/mam.At starting of my career,i want to learn new technologies and gain more knowledge.
+And i feel epam system is a great place to start my career.
